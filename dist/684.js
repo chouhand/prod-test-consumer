@@ -1,0 +1,1 @@
+(window.webpackJsonp_bit_module_federation_app1=window.webpackJsonp_bit_module_federation_app1||[]).push([[684],{684:(e,n,t)=>{"use strict";t.r(n);var p=t(104),d=t.n(p),a=t(871);const l=e=>d().createElement("div",{style:{padding:"50px 12px",display:"flex"}},d().createElement("div",null,"app1"));t.n(a)().render(d().createElement(l,null),document.getElementById("root"))}}]);
